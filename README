@@ -1,0 +1,18 @@
+This is a Play! framework bash completion script.
+
+# USAGES #
+
+  $ play [tab][tab]
+  $ play help [tab][tab]
+  
+  will display the list of available play commands
+  
+  
+  $ play run [tab][tab]
+  
+  will display the list of all play apps in the current directory (and subdirectories)
+
+
+# HACKABILITY #
+
+feel free to improve my script ;)
